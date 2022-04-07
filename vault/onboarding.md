@@ -2,13 +2,13 @@
 id: incbwq0hzrh5hwzfyk37lvl
 title: Onboarding
 desc: ''
-updated: 1649276435672
+updated: 1649300564239
 created: 1649273956620
 ---
 
 ## Summary
 
-This note is intended for use during onboarding procedures as a living reference of various items and access required by new or existing employees.
+This page is intended for use during onboarding procedures as a living reference of various items and access required by new or existing employees.
 
 ### Human Resources
 
@@ -22,6 +22,8 @@ This note is intended for use during onboarding procedures as a living reference
 - [ ] Professional Bio (3-5 sentences)
 - [ ] New Employee Orientation (NEO) Course Completion
 - [ ] Benefits Enrollment / Benefits Orientation
+- [ ] RTD EcoPass
+- [ ] Parking
 
 ### Skillsoft Required Trainings
 
@@ -34,6 +36,7 @@ This note is intended for use during onboarding procedures as a living reference
 ### General Access
 
 - [ ] Email Address
+- [ ] Phone Communication
 - [ ] Duo Enrollment and Activation
 - [ ] LastPass
 - [ ] Microsoft Teams
@@ -41,22 +44,34 @@ This note is intended for use during onboarding procedures as a living reference
 - [ ] Github Account (New or Linked)
 - [ ] Github Organization(s)
 - [ ] Monday.com
+- [ ] Zoom Account
 
-## General Setup
+### General Setup
 
 - [ ] Email Signature
 - [ ] Microsoft Profile Image
 - [ ] Slack Profile Image
+- [ ] Zoom Profile Image
 
-## Team Policies
+### Team Policies
 
 - [ ] Vacation Time
 - [ ] Sick Time
 - [ ] Communication
 - [ ] Seminar or Webinar Attendance
 
-## Informational
+### Informational
 
 - [ ] Organization Chart
 - [ ] HR Business Partners
 - [ ] Branding Guidelines
+- [ ] School of Medicine Information Services
+- [ ] CU Denver & Anschutz Office of Information Technology
+- [ ] Internal Teams for Awareness
+- [ ] CHAI Website
+
+### Data Governance
+
+- [ ] HIPAA Data
+- [ ] FERPA Data
+- [ ] Data Source Approvals
