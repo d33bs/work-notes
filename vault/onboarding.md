@@ -2,7 +2,7 @@
 id: incbwq0hzrh5hwzfyk37lvl
 title: Onboarding
 desc: ''
-updated: 1649300564239
+updated: 1649363607217
 created: 1649273956620
 ---
 
@@ -10,23 +10,29 @@ created: 1649273956620
 
 This page is intended for use during onboarding procedures as a living reference of various items and access required by new or existing employees.
 
-### Human Resources
+### Getting Started
 
-- [ ] COVID Vaccination Status
+- [ ] Profile Headshot Picture
+- [ ] Professional Bio (3-5 sentences)
+- [ ] Team Introduction
+
+### Required Forms and Payroll
+
+- [ ] COVID Vaccination Status Form
+- [ ] Remote Work Agreement Form
 - [ ] Payroll Direct Deposit
 - [ ] IRS W-4
 - [ ] I9 Verification (Correspondence through email)
-- [ ] University Badging
-- [ ] Remote Work Agreement
-- [ ] Profile Headshot Picture
-- [ ] Professional Bio (3-5 sentences)
-- [ ] New Employee Orientation (NEO) Course Completion
+
+### Benefits and Commuting
+
 - [ ] Benefits Enrollment / Benefits Orientation
 - [ ] RTD EcoPass
 - [ ] Parking
 
-### Skillsoft Required Trainings
+### Required Trainings
 
+- [ ] New Employee Orientation (NEO) Course Completion
 - [ ] Training #1
 - [ ] Training #2
 - [ ] Training #3
@@ -35,6 +41,7 @@ This page is intended for use during onboarding procedures as a living reference
 
 ### General Access
 
+- [ ] Claiming Your Account
 - [ ] Email Address
 - [ ] Phone Communication
 - [ ] Duo Enrollment and Activation
@@ -45,6 +52,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Github Organization(s)
 - [ ] Monday.com
 - [ ] Zoom Account
+- [ ] University Badging
 
 ### General Setup
 
@@ -59,15 +67,17 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Sick Time
 - [ ] Communication
 - [ ] Seminar or Webinar Attendance
+- [ ] Generalized Source Control Cadence
 
 ### Informational
 
 - [ ] Organization Chart
 - [ ] HR Business Partners
 - [ ] Branding Guidelines
-- [ ] School of Medicine Information Services
-- [ ] CU Denver & Anschutz Office of Information Technology
-- [ ] Internal Teams for Awareness
+- [ ] School of Medicine (SOM) Information Services
+- [ ] CU Denver & Anschutz Office of Information Technology (OIT)
+- [ ] SOM Greene Lab
+- [ ] Other SOM Teams for Awareness
 - [ ] CHAI Website
 
 ### Data Governance
@@ -75,3 +85,4 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] HIPAA Data
 - [ ] FERPA Data
 - [ ] Data Source Approvals
+- [ ] Common CU Data Sources
