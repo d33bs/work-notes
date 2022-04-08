@@ -2,7 +2,7 @@
 id: incbwq0hzrh5hwzfyk37lvl
 title: Onboarding
 desc: ''
-updated: 1649363607217
+updated: 1649447284368
 created: 1649273956620
 ---
 
@@ -61,6 +61,18 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Slack Profile Image
 - [ ] Zoom Profile Image
 
+### Informational
+
+- [ ] Performance Planning and Reviews
+- [ ] Organization Chart
+- [ ] HR Business Partners
+- [ ] Branding Guidelines
+- [ ] School of Medicine (SOM) Information Services
+- [ ] CU Denver & Anschutz Office of Information Technology (OIT)
+- [ ] SOM Greene Lab
+- [ ] Other SOM Teams for Awareness
+- [ ] Purchasing Process
+
 ### Team Policies
 
 - [ ] Vacation Time
@@ -69,15 +81,8 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Seminar or Webinar Attendance
 - [ ] Generalized Source Control Cadence
 
-### Informational
+### Team Assets
 
-- [ ] Organization Chart
-- [ ] HR Business Partners
-- [ ] Branding Guidelines
-- [ ] School of Medicine (SOM) Information Services
-- [ ] CU Denver & Anschutz Office of Information Technology (OIT)
-- [ ] SOM Greene Lab
-- [ ] Other SOM Teams for Awareness
 - [ ] CHAI Website
 
 ### Data Governance

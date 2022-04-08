@@ -2,14 +2,14 @@
 id: 8ktf8bczwaha311h5kbgmnp
 title: Root
 desc: ''
-updated: 1649273869696
+updated: 1649447362553
 created: 1649273791268
 ---
-# Example Dendron Workspace
+## Example Dendron Workspace
 
 This is an example dendron workspace for demonstrational purposes.
 
-## Dendron References
+### Dendron References
 
 This section contains useful links to related resources.
 
