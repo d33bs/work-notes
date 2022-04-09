@@ -1,9 +1,9 @@
 ---
-id: incbwq0hzrh5hwzfyk37lvl
-title: Onboarding
+id: 8013qw85u5x0y5q57t7jgbw
+title: Dave
 desc: ''
-updated: 1649447284368
-created: 1649273956620
+updated: 1649532684650
+created: 1649532667767
 ---
 
 ## Summary
@@ -80,6 +80,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Communication
 - [ ] Seminar or Webinar Attendance
 - [ ] Generalized Source Control Cadence
+- [ ] Project Management Reporting
 
 ### Team Assets
 
