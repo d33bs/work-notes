@@ -1,0 +1,9 @@
+version: 1
+schemas:
+  - id: onboarding
+    title: onboarding
+    parent: root
+    children:
+      - pattern: "*"
+        desc: Onboarding template
+        template: templates.onboarding
