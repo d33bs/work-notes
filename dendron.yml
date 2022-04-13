@@ -73,7 +73,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    assetsPrefix: /dendron.example
+    assetsPrefix: /work-notes
     siteUrl: https://d33bs.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -86,8 +86,8 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: Work Notes
+        description: Work Knowledge Space
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
