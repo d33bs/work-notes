@@ -1,9 +1,9 @@
 ---
-id: xlq1red4lbrkckyxf3kmjnn
+id: k2ail7njehfousye2ljphii
 title: Dave
 desc: ''
-updated: 1649793266387
-created: 1649793253991
+updated: 1649881440218
+created: 1649881438861
 ---
 
 ## Summary
@@ -46,6 +46,7 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Phone Communication
 - [ ] Duo Enrollment and Activation
 - [ ] LastPass
+- [ ] Google Workspace Account
 - [ ] VPN setup
 - [ ] Microsoft Teams Center for Health AI Team Access
 - [ ] Slack
@@ -70,16 +71,17 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Branding Guidelines
 - [ ] School of Medicine (SOM) Information Services
 - [ ] CU Denver & Anschutz Office of Information Technology (OIT)
-- [ ] SOM Greene Lab
-- [ ] Other SOM Teams for Awareness
+- [ ] SOM Teams for Awareness
 - [ ] Purchasing Process
+- [ ] Grants
+- [ ] Task Sizing and Timing
 
 ### Team Policies
 
 - [ ] Vacation Time
 - [ ] Sick Time
 - [ ] Communication
-- [ ] Seminar or Webinar Attendance
+- [ ] Seminar, Chalk Talk, Lunch+Learn Attendance
 - [ ] Generalized Source Control Cadence
 - [ ] Project Management Reporting
 
