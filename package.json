@@ -1,21 +1,21 @@
 {
-  "name": "dendron.example",
+  "name": "work-notes",
   "version": "0.0.1",
-  "description": "An example Dendron vault",
+  "description": "Work notes Dendron vault",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d33bs/dendron.example.git"
+    "url": "git+https://github.com/d33bs/work-notes.git"
   },
   "author": "d33bs",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/d33bs/dendron.example/issues"
+    "url": "https://github.com/d33bs/work-notes/issues"
   },
-  "homepage": "https://github.com/d33bs/dendron.example#readme",
+  "homepage": "https://github.com/d33bs/work-notes#readme",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.89.0"
   }
