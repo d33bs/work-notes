@@ -1,0 +1,74 @@
+{
+  "roots": [
+    {
+      "key": "8ktf8bczwaha311h5kbgmnp",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "328yy0lw594zg3yilt7le5b",
+          "title": "Onboarding",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "k2ail7njehfousye2ljphii",
+              "title": "Dave",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "hqpoaqdlwd33a55pxuisxbw",
+          "title": "Sketch",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "8sdztagepnn9vjr4t3obwtq",
+              "title": "Work Visibility",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "omo2lohr6uwwokwwm1rtupx",
+          "title": "Templates",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "incbwq0hzrh5hwzfyk37lvl",
+              "title": "Onboarding",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "8ktf8bczwaha311h5kbgmnp": null,
+    "omo2lohr6uwwokwwm1rtupx": "8ktf8bczwaha311h5kbgmnp",
+    "incbwq0hzrh5hwzfyk37lvl": "omo2lohr6uwwokwwm1rtupx",
+    "hqpoaqdlwd33a55pxuisxbw": "8ktf8bczwaha311h5kbgmnp",
+    "8sdztagepnn9vjr4t3obwtq": "hqpoaqdlwd33a55pxuisxbw",
+    "328yy0lw594zg3yilt7le5b": "8ktf8bczwaha311h5kbgmnp",
+    "k2ail7njehfousye2ljphii": "328yy0lw594zg3yilt7le5b"
+  }
+}
