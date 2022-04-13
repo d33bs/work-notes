@@ -2,7 +2,7 @@
 id: incbwq0hzrh5hwzfyk37lvl
 title: Onboarding
 desc: ''
-updated: 1649532183262
+updated: 1649797569378
 created: 1649273956620
 ---
 
@@ -46,10 +46,12 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Phone Communication
 - [ ] Duo Enrollment and Activation
 - [ ] LastPass
-- [ ] Microsoft Teams
+- [ ] Google Workspace Account
+- [ ] VPN setup
+- [ ] Microsoft Teams Center for Health AI Team Access
 - [ ] Slack
 - [ ] Github Account (New or Linked)
-- [ ] Github Organization(s)
+- [ ] Github Org for Center for Health AI
 - [ ] Monday.com
 - [ ] Zoom Account
 - [ ] University Badging
@@ -69,16 +71,17 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Branding Guidelines
 - [ ] School of Medicine (SOM) Information Services
 - [ ] CU Denver & Anschutz Office of Information Technology (OIT)
-- [ ] SOM Greene Lab
-- [ ] Other SOM Teams for Awareness
+- [ ] SOM Teams for Awareness
 - [ ] Purchasing Process
+- [ ] Grants
+- [ ] Task Sizing and Timing
 
 ### Team Policies
 
 - [ ] Vacation Time
 - [ ] Sick Time
 - [ ] Communication
-- [ ] Seminar or Webinar Attendance
+- [ ] Seminar, Chalk Talk, Lunch+Learn Attendance
 - [ ] Generalized Source Control Cadence
 - [ ] Project Management Reporting
 

@@ -1,9 +1,9 @@
 ---
-id: wyelmqxefikny4fkkkqo1q3
+id: xlq1red4lbrkckyxf3kmjnn
 title: Dave
 desc: ''
-updated: 1649704552696
-created: 1649704543417
+updated: 1649793266387
+created: 1649793253991
 ---
 
 ## Summary
@@ -46,10 +46,11 @@ This page is intended for use during onboarding procedures as a living reference
 - [ ] Phone Communication
 - [ ] Duo Enrollment and Activation
 - [ ] LastPass
-- [ ] Microsoft Teams
+- [ ] VPN setup
+- [ ] Microsoft Teams Center for Health AI Team Access
 - [ ] Slack
 - [ ] Github Account (New or Linked)
-- [ ] Github Organization(s)
+- [ ] Github Org for Center for Health AI
 - [ ] Monday.com
 - [ ] Zoom Account
 - [ ] University Badging
